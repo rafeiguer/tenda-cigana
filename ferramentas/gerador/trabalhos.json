@@ -1,0 +1,319 @@
+[
+ {
+  "nome": "verso",
+  "w": 832,
+  "h": 1216,
+  "seed": 7,
+  "prompt": "ornate antique playing card back design, deep burgundy velvet with intricate gold filigree, a golden gypsy wagon wheel mandala in the center, symmetrical, luxurious, photorealistic, top view, flat lay",
+  "neg": "text, letters, words, numbers, watermark, cartoon, blurry, lowres, people"
+ },
+ {
+  "nome": "carta-01",
+  "w": 832,
+  "h": 1216,
+  "seed": 101,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: a gentleman rider in black coat and top hat on a white horse galloping on a country road at dusk",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed"
+ },
+ {
+  "nome": "carta-02",
+  "w": 832,
+  "h": 1216,
+  "seed": 102,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: a four leaf clover with dew drops growing among wild grass and tiny flowers",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed, person, woman, man, people, human"
+ },
+ {
+  "nome": "carta-03",
+  "w": 832,
+  "h": 1216,
+  "seed": 103,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: a tall wooden sailing ship with full sails on a golden sea at sunset",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed, person, woman, man, people, human"
+ },
+ {
+  "nome": "carta-04",
+  "w": 832,
+  "h": 1216,
+  "seed": 104,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: a charming old stone cottage with warm lit windows and a garden path",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed, person, woman, man, people, human"
+ },
+ {
+  "nome": "carta-05",
+  "w": 832,
+  "h": 1216,
+  "seed": 105,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: a large majestic old oak tree with deep roots in a green meadow",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed, person, woman, man, people, human"
+ },
+ {
+  "nome": "carta-06",
+  "w": 832,
+  "h": 1216,
+  "seed": 106,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: dark dramatic storm clouds over a hill, rays of light breaking through",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed, person, woman, man, people, human"
+ },
+ {
+  "nome": "carta-07",
+  "w": 832,
+  "h": 1216,
+  "seed": 107,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: a coiled green and brown serpent on a mossy stone, menacing gaze",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed, person, woman, man, people, human"
+ },
+ {
+  "nome": "carta-08",
+  "w": 832,
+  "h": 1216,
+  "seed": 108,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: an ornate antique wooden coffin with carved details and dried roses, solemn mood",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed, person, woman, man, people, human"
+ },
+ {
+  "nome": "carta-09",
+  "w": 832,
+  "h": 1216,
+  "seed": 109,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: a beautiful bouquet of pink and red roses tied with a silk ribbon",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed, person, woman, man, people, human"
+ },
+ {
+  "nome": "carta-10",
+  "w": 832,
+  "h": 1216,
+  "seed": 110,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: an old scythe with curved steel blade leaning against a wheat field",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed, person, woman, man, people, human"
+ },
+ {
+  "nome": "carta-11",
+  "w": 832,
+  "h": 1216,
+  "seed": 111,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: a coiled leather horse whip on a rustic wooden table",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed, person, woman, man, people, human"
+ },
+ {
+  "nome": "carta-12",
+  "w": 832,
+  "h": 1216,
+  "seed": 112,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: two small songbirds perched together on a flowering branch",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed, person, woman, man, people, human"
+ },
+ {
+  "nome": "carta-13",
+  "w": 832,
+  "h": 1216,
+  "seed": 113,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: a sweet little child in a lace dress holding a teddy bear, victorian portrait",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed"
+ },
+ {
+  "nome": "carta-14",
+  "w": 832,
+  "h": 1216,
+  "seed": 114,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: a red fox standing alert in an autumn forest, cunning eyes",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed, person, woman, man, people, human"
+ },
+ {
+  "nome": "carta-15",
+  "w": 832,
+  "h": 1216,
+  "seed": 115,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: a large brown bear standing in a pine forest, powerful",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed, person, woman, man, people, human"
+ },
+ {
+  "nome": "carta-16",
+  "w": 832,
+  "h": 1216,
+  "seed": 116,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: a deep blue night sky full of bright stars over silhouetted hills",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed, person, woman, man, people, human"
+ },
+ {
+  "nome": "carta-17",
+  "w": 832,
+  "h": 1216,
+  "seed": 117,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: an elegant white stork standing by a pond in tall reeds",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed, person, woman, man, people, human"
+ },
+ {
+  "nome": "carta-18",
+  "w": 832,
+  "h": 1216,
+  "seed": 118,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: a loyal golden retriever dog sitting, gentle eyes, warm light",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed, person, woman, man, people, human"
+ },
+ {
+  "nome": "carta-19",
+  "w": 832,
+  "h": 1216,
+  "seed": 119,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: a tall medieval stone tower on a hill under a dramatic sky",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed, person, woman, man, people, human"
+ },
+ {
+  "nome": "carta-20",
+  "w": 832,
+  "h": 1216,
+  "seed": 120,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: a romantic garden park with a rose arch, bench and flowering trees",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed, person, woman, man, people, human"
+ },
+ {
+  "nome": "carta-21",
+  "w": 832,
+  "h": 1216,
+  "seed": 121,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: a rugged snow capped mountain peak with rocky cliffs",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed, person, woman, man, people, human"
+ },
+ {
+  "nome": "carta-22",
+  "w": 832,
+  "h": 1216,
+  "seed": 122,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: a dirt road forking into two paths through a green countryside",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed, person, woman, man, people, human"
+ },
+ {
+  "nome": "carta-23",
+  "w": 832,
+  "h": 1216,
+  "seed": 123,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: two grey mice nibbling on bread crumbs in a dark old cellar",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed, person, woman, man, people, human"
+ },
+ {
+  "nome": "carta-24",
+  "w": 832,
+  "h": 1216,
+  "seed": 124,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: a red heart made of velvet surrounded by red roses and gold filigree",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed, person, woman, man, people, human"
+ },
+ {
+  "nome": "carta-25",
+  "w": 832,
+  "h": 1216,
+  "seed": 125,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: an antique gold ring with a sparkling diamond on red velvet",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed, person, woman, man, people, human"
+ },
+ {
+  "nome": "carta-26",
+  "w": 832,
+  "h": 1216,
+  "seed": 126,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: an old leather bound book with gold ornaments and a brass clasp, closed",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed, person, woman, man, people, human"
+ },
+ {
+  "nome": "carta-27",
+  "w": 832,
+  "h": 1216,
+  "seed": 127,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: an old letter envelope sealed with red wax and a quill pen",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed, person, woman, man, people, human"
+ },
+ {
+  "nome": "carta-28",
+  "w": 832,
+  "h": 1216,
+  "seed": 128,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: portrait of an elegant gypsy man with dark beard, embroidered vest, earring, candlelight",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed"
+ },
+ {
+  "nome": "carta-29",
+  "w": 832,
+  "h": 1216,
+  "seed": 129,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: portrait of a beautiful gypsy woman with long dark hair, red headscarf, gold earrings, candlelight",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed"
+ },
+ {
+  "nome": "carta-30",
+  "w": 832,
+  "h": 1216,
+  "seed": 130,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: white lilies in full bloom with green leaves, serene",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed, person, woman, man, people, human"
+ },
+ {
+  "nome": "carta-31",
+  "w": 832,
+  "h": 1216,
+  "seed": 131,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: a radiant golden sun shining over a peaceful landscape with sunflowers",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed, person, woman, man, people, human"
+ },
+ {
+  "nome": "carta-32",
+  "w": 832,
+  "h": 1216,
+  "seed": 132,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: a full moon glowing over a calm lake at night with reflections",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed, person, woman, man, people, human"
+ },
+ {
+  "nome": "carta-33",
+  "w": 832,
+  "h": 1216,
+  "seed": 133,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: an ornate antique golden key on dark velvet",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed, person, woman, man, people, human"
+ },
+ {
+  "nome": "carta-34",
+  "w": 832,
+  "h": 1216,
+  "seed": 134,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: two colorful koi fish swimming in clear water",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed, person, woman, man, people, human"
+ },
+ {
+  "nome": "carta-35",
+  "w": 832,
+  "h": 1216,
+  "seed": 135,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: an old iron ship anchor resting on a sandy shore with rope",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed, person, woman, man, people, human"
+ },
+ {
+  "nome": "carta-36",
+  "w": 832,
+  "h": 1216,
+  "seed": 136,
+  "prompt": "classical oil painting, 19th century romantic realism, full bleed canvas, warm golden hour light, rich burgundy and gold tones, soft dark vignette, fine detail, museum quality, realistic, the subject fills the frame: a simple wooden cross on a hill at golden sunset, spiritual light",
+  "neg": "picture frame, gilded frame, border, table, candle, candles, tarot cards, playing cards, still life, room interior, text, letters, words, numbers, watermark, signature, cartoon, anime, 3d render, lowres, blurry, deformed, person, woman, man, people, human"
+ },
+ {
+  "nome": "interior",
+  "w": 1344,
+  "h": 768,
+  "seed": 11,
+  "prompt": "interior of a luxurious romani gypsy wagon vardo at night, curved wooden ceiling, purple and burgundy silk drapes, hanging moroccan mosaic lanterns glowing, a round table with velvet tablecloth, crystal ball, tarot cards, candles, gold coins, shelves with herb jars, embroidered cushions, warm candlelight, cinematic, photorealistic, highly detailed"
+ },
+ {
+  "nome": "bola",
+  "w": 1024,
+  "h": 1024,
+  "seed": 12,
+  "prompt": "a glowing crystal ball on an ornate antique gold stand on a burgundy velvet table, mystical pink and violet mist inside, candles around, dark background, cinematic lighting, photorealistic, highly detailed, centered"
+ },
+ {
+  "nome": "logo-bola",
+  "w": 1024,
+  "h": 1024,
+  "seed": 13,
+  "prompt": "a crystal ball on an ornate gold filigree stand with red roses around it, isolated on pure black background, magical rim light, luxurious, photorealistic, centered, product photo"
+ }
+]

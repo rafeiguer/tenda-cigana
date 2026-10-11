@@ -1,0 +1,82 @@
+[
+ {
+  "nome": "presa-roxa-101",
+  "w": 832,
+  "h": 1216,
+  "seed": 101,
+  "prompt": "full length purple velvet brocade with gold paisley embroidery curtain tied back at the middle with a gold rope tassel tieback, graceful hourglass drape, isolated on black background, photorealistic, detailed fabric",
+  "neg": "people, face, hands, text, watermark, logo, cartoon, illustration, 3d render, lowres, blurry, window, wall, floor, furniture, valance, curtain rod, two curtains"
+ },
+ {
+  "nome": "presa-vermelha-101",
+  "w": 832,
+  "h": 1216,
+  "seed": 101,
+  "prompt": "full length crimson red silk with gold embroidery curtain tied back at the middle with a gold rope tassel tieback, graceful hourglass drape, isolated on black background, photorealistic, detailed fabric",
+  "neg": "people, face, hands, text, watermark, logo, cartoon, illustration, 3d render, lowres, blurry, window, wall, floor, furniture, valance, curtain rod, two curtains"
+ },
+ {
+  "nome": "presa-roxa-102",
+  "w": 832,
+  "h": 1216,
+  "seed": 102,
+  "prompt": "full length purple velvet brocade with gold paisley embroidery curtain tied back at the middle with a gold rope tassel tieback, graceful hourglass drape, isolated on black background, photorealistic, detailed fabric",
+  "neg": "people, face, hands, text, watermark, logo, cartoon, illustration, 3d render, lowres, blurry, window, wall, floor, furniture, valance, curtain rod, two curtains"
+ },
+ {
+  "nome": "presa-vermelha-102",
+  "w": 832,
+  "h": 1216,
+  "seed": 102,
+  "prompt": "full length crimson red silk with gold embroidery curtain tied back at the middle with a gold rope tassel tieback, graceful hourglass drape, isolated on black background, photorealistic, detailed fabric",
+  "neg": "people, face, hands, text, watermark, logo, cartoon, illustration, 3d render, lowres, blurry, window, wall, floor, furniture, valance, curtain rod, two curtains"
+ },
+ {
+  "nome": "presa-roxa-103",
+  "w": 832,
+  "h": 1216,
+  "seed": 103,
+  "prompt": "full length purple velvet brocade with gold paisley embroidery curtain tied back at the middle with a gold rope tassel tieback, graceful hourglass drape, isolated on black background, photorealistic, detailed fabric",
+  "neg": "people, face, hands, text, watermark, logo, cartoon, illustration, 3d render, lowres, blurry, window, wall, floor, furniture, valance, curtain rod, two curtains"
+ },
+ {
+  "nome": "presa-vermelha-103",
+  "w": 832,
+  "h": 1216,
+  "seed": 103,
+  "prompt": "full length crimson red silk with gold embroidery curtain tied back at the middle with a gold rope tassel tieback, graceful hourglass drape, isolated on black background, photorealistic, detailed fabric",
+  "neg": "people, face, hands, text, watermark, logo, cartoon, illustration, 3d render, lowres, blurry, window, wall, floor, furniture, valance, curtain rod, two curtains"
+ },
+ {
+  "nome": "vardo-cavalos-111",
+  "w": 1536,
+  "h": 640,
+  "seed": 111,
+  "prompt": "side view of an ornate golden romani vardo wagon pulled by two brown horses walking, big spoked wheels, flower garlands, brass lantern, whole horses visible, isolated on white background, photorealistic",
+  "neg": "people, rider, driver, three quarter view, scenery, grass, road, sky, text, watermark, cartoon, illustration, blurry, cropped, extra legs, deformed horse"
+ },
+ {
+  "nome": "vardo-cavalos-112",
+  "w": 1536,
+  "h": 640,
+  "seed": 112,
+  "prompt": "side view of an ornate golden romani vardo wagon pulled by two brown horses walking, big spoked wheels, flower garlands, brass lantern, whole horses visible, isolated on white background, photorealistic",
+  "neg": "people, rider, driver, three quarter view, scenery, grass, road, sky, text, watermark, cartoon, illustration, blurry, cropped, extra legs, deformed horse"
+ },
+ {
+  "nome": "vardo-cavalos-113",
+  "w": 1536,
+  "h": 640,
+  "seed": 113,
+  "prompt": "side view of an ornate golden romani vardo wagon pulled by two brown horses walking, big spoked wheels, flower garlands, brass lantern, whole horses visible, isolated on white background, photorealistic",
+  "neg": "people, rider, driver, three quarter view, scenery, grass, road, sky, text, watermark, cartoon, illustration, blurry, cropped, extra legs, deformed horse"
+ },
+ {
+  "nome": "vardo-cavalos-114",
+  "w": 1536,
+  "h": 640,
+  "seed": 114,
+  "prompt": "side view of an ornate golden romani vardo wagon pulled by two brown horses walking, big spoked wheels, flower garlands, brass lantern, whole horses visible, isolated on white background, photorealistic",
+  "neg": "people, rider, driver, three quarter view, scenery, grass, road, sky, text, watermark, cartoon, illustration, blurry, cropped, extra legs, deformed horse"
+ }
+]

@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.venv/
+ferramentas/gerador/.venv/
+
+# fotos de teste (a mão do Rafa usada para testar a leitura) não vão para o GitHub
+WhatsApp Image*

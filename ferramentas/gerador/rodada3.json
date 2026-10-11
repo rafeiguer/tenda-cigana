@@ -1,0 +1,66 @@
+[
+ {
+  "nome": "interior-alto-a",
+  "w": 1344,
+  "h": 768,
+  "seed": 81,
+  "prompt": "high angle view looking down at a round fortune teller table inside a romani gypsy wagon, gypsy fortune cards spread face up on burgundy velvet tablecloth, crystal ball on gold stand, lit candles, gold coins, dried roses, lanterns glowing, warm candlelight, photorealistic, cinematic",
+  "neg": "text, letters, watermark, logo, cartoon, anime, illustration, 3d render, lowres, blurry, deformed, people, person, hands"
+ },
+ {
+  "nome": "interior-alto-b",
+  "w": 1344,
+  "h": 768,
+  "seed": 82,
+  "prompt": "high angle view looking down at a round fortune teller table inside a romani gypsy wagon, gypsy fortune cards spread face up on burgundy velvet tablecloth, crystal ball on gold stand, lit candles, gold coins, dried roses, lanterns glowing, warm candlelight, photorealistic, cinematic",
+  "neg": "text, letters, watermark, logo, cartoon, anime, illustration, 3d render, lowres, blurry, deformed, people, person, hands"
+ },
+ {
+  "nome": "mao",
+  "w": 832,
+  "h": 1216,
+  "seed": 83,
+  "prompt": "an open human right hand palm facing the camera, fingers together, clear palm lines, soft warm candlelight, dark burgundy velvet background, photorealistic, highly detailed skin",
+  "neg": "text, letters, watermark, logo, cartoon, anime, illustration, 3d render, lowres, blurry, deformed, extra fingers, missing fingers, fist, jewelry"
+ },
+ {
+  "nome": "mao-b",
+  "w": 832,
+  "h": 1216,
+  "seed": 84,
+  "prompt": "an open human right hand palm facing the camera, fingers together, clear palm lines, soft warm candlelight, dark burgundy velvet background, photorealistic, highly detailed skin",
+  "neg": "text, letters, watermark, logo, cartoon, anime, illustration, 3d render, lowres, blurry, deformed, extra fingers, missing fingers, fist, jewelry"
+ },
+ {
+  "nome": "xicara",
+  "w": 1024,
+  "h": 1024,
+  "seed": 85,
+  "prompt": "top view directly from above of an empty white porcelain coffee cup with gold rim on a matching saucer, dark coffee grounds residue inside the cup forming patterns, on burgundy velvet, warm candlelight, photorealistic",
+  "neg": "text, letters, watermark, logo, cartoon, anime, illustration, 3d render, lowres, blurry, deformed, spoon, hands, side view"
+ },
+ {
+  "nome": "moeda-lua",
+  "w": 1024,
+  "h": 1024,
+  "seed": 86,
+  "prompt": "an antique gold coin seen straight from the front, embossed crescent moon and stars, worn edges, isolated on pure black background, product photo, photorealistic, sharp",
+  "neg": "text, letters, watermark, logo, cartoon, anime, illustration, 3d render, lowres, blurry, deformed, multiple coins, perspective"
+ },
+ {
+  "nome": "moeda-rosa",
+  "w": 1024,
+  "h": 1024,
+  "seed": 87,
+  "prompt": "an antique gold coin seen straight from the front, embossed rose flower, worn edges, isolated on pure black background, product photo, photorealistic, sharp",
+  "neg": "text, letters, watermark, logo, cartoon, anime, illustration, 3d render, lowres, blurry, deformed, multiple coins, perspective"
+ },
+ {
+  "nome": "roda-fortuna",
+  "w": 1024,
+  "h": 1024,
+  "seed": 88,
+  "prompt": "front view of an ornate antique wooden and gold wagon wheel with eight spokes and a golden hub, perfectly round, flat front view, isolated on pure black background, photorealistic, sharp",
+  "neg": "text, letters, watermark, logo, cartoon, anime, illustration, 3d render, lowres, blurry, deformed, perspective, tilted, multiple wheels"
+ }
+]

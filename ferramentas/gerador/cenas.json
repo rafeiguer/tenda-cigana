@@ -1,0 +1,20 @@
+[
+ {"nome": "interior-a", "w": 1344, "h": 768, "seed": 11,
+  "prompt": "interior of a luxurious romani gypsy wagon vardo at night, curved wooden barrel ceiling, burgundy and purple silk drapes, hanging moroccan mosaic glass lanterns glowing orange and blue, in the center a round table with velvet tablecloth holding a glowing crystal ball, tarot cards, lit candles and gold coins, wooden shelves with glass jars of herbs on the left wall, a tambourine with ribbons hanging on the right wall, embroidered cushions, warm candlelight, cinematic, photorealistic, highly detailed, wide angle",
+  "neg": "people, person, woman, man, text, watermark, cartoon, anime, 3d render, lowres, blurry, deformed"},
+ {"nome": "interior-b", "w": 1344, "h": 768, "seed": 23,
+  "prompt": "interior of a luxurious romani gypsy wagon vardo at night, curved wooden barrel ceiling, burgundy and purple silk drapes, hanging moroccan mosaic glass lanterns glowing orange and blue, in the center a round table with velvet tablecloth holding a glowing crystal ball, tarot cards, lit candles and gold coins, wooden shelves with glass jars of herbs on the left wall, a tambourine with ribbons hanging on the right wall, embroidered cushions, warm candlelight, cinematic, photorealistic, highly detailed, wide angle",
+  "neg": "people, person, woman, man, text, watermark, cartoon, anime, 3d render, lowres, blurry, deformed"},
+ {"nome": "bola", "w": 1024, "h": 1024, "seed": 12,
+  "prompt": "a large clear crystal ball on an ornate antique gold claw stand, centered, on a burgundy velvet table, soft pink and violet mist swirling inside the glass, a few lit candles blurred in the background, dark moody background, cinematic lighting, photorealistic, highly detailed",
+  "neg": "people, hands, text, watermark, cartoon, 3d render, lowres, blurry, deformed, multiple balls"},
+ {"nome": "logo-bola", "w": 1024, "h": 1024, "seed": 13,
+  "prompt": "a crystal ball on an ornate gold filigree stand, deep red roses at the base, isolated on pure black background, magical pink rim light, luxurious jewelry product photo, centered, photorealistic",
+  "neg": "people, hands, text, watermark, cartoon, 3d render, lowres, blurry, table, room"},
+ {"nome": "vardo-a", "w": 1344, "h": 768, "seed": 31,
+  "prompt": "side view profile of an ornate golden romani gypsy vardo wagon decorated with pink and purple flowers, arched roof, carved gold details, small windows with curtains, a lantern by the door, two large wooden spoked wheels fully visible in perfect side view, isolated on plain white background, photorealistic product photo, sharp",
+  "neg": "horse, people, perspective, three quarter view, background scenery, grass, road, text, watermark, cartoon, blurry, cropped"},
+ {"nome": "vardo-b", "w": 1344, "h": 768, "seed": 47,
+  "prompt": "side view profile of an ornate golden romani gypsy vardo wagon decorated with pink and purple flowers, arched roof, carved gold details, small windows with curtains, a lantern by the door, two large wooden spoked wheels fully visible in perfect side view, isolated on plain white background, photorealistic product photo, sharp",
+  "neg": "horse, people, perspective, three quarter view, background scenery, grass, road, text, watermark, cartoon, blurry, cropped"}
+]

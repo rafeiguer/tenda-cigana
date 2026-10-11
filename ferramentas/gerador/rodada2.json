@@ -1,0 +1,114 @@
+[
+ {
+  "nome": "cortina",
+  "w": 832,
+  "h": 1216,
+  "seed": 51,
+  "prompt": "luxurious heavy deep red velvet theater curtain, closed, front view filling the whole frame, rich vertical folds, soft warm light from above, gold fringe trim at the bottom, photorealistic, highly detailed fabric texture",
+  "neg": "people, person, hands, text, letters, watermark, logo, cartoon, anime, illustration, 3d render, lowres, blurry, deformed, stage, floor, room, people"
+ },
+ {
+  "nome": "rosa",
+  "w": 1024,
+  "h": 1024,
+  "seed": 52,
+  "prompt": "a single perfect deep red rose in full bloom with a short stem and two green leaves, velvety petals with dew drops, isolated on pure black background, studio product photo, photorealistic, highly detailed, sharp focus",
+  "neg": "people, person, hands, text, letters, watermark, logo, cartoon, anime, illustration, 3d render, lowres, blurry, deformed"
+ },
+ {
+  "nome": "gramofone",
+  "w": 1024,
+  "h": 1024,
+  "seed": 53,
+  "prompt": "antique brass gramophone with a large golden flower shaped horn and a carved dark wooden base, side view, no record on the turntable, isolated on pure black background, studio product photo, photorealistic, highly detailed, sharp focus",
+  "neg": "people, person, hands, text, letters, watermark, logo, cartoon, anime, illustration, 3d render, lowres, blurry, deformed, record, vinyl disc"
+ },
+ {
+  "nome": "vardo-ouro-1",
+  "w": 1344,
+  "h": 768,
+  "seed": 61,
+  "prompt": "perfect side view profile of a golden wooden romani vardo wagon with a rounded barrel roof of polished golden wood planks, ornate carved gold baroque trim on the roof edge, two arched windows with cream curtains, pink and purple flower garlands and flower boxes, a brass lantern hanging by the front door, four large wooden spoked wheels with golden rims, two wheels fully visible, warm golden wood tones, isolated on plain white background, photorealistic product photo, sharp",
+  "neg": "horse, people, perspective view, three quarter view, background scenery, grass, road, purple fabric roof, canopy, text, watermark, cartoon, blurry, cropped"
+ },
+ {
+  "nome": "vardo-ouro-2",
+  "w": 1344,
+  "h": 768,
+  "seed": 62,
+  "prompt": "perfect side view profile of a golden wooden romani vardo wagon with a rounded barrel roof of polished golden wood planks, ornate carved gold baroque trim on the roof edge, two arched windows with cream curtains, pink and purple flower garlands and flower boxes, a brass lantern hanging by the front door, four large wooden spoked wheels with golden rims, two wheels fully visible, warm golden wood tones, isolated on plain white background, photorealistic product photo, sharp",
+  "neg": "horse, people, perspective view, three quarter view, background scenery, grass, road, purple fabric roof, canopy, text, watermark, cartoon, blurry, cropped"
+ },
+ {
+  "nome": "vardo-ouro-3",
+  "w": 1344,
+  "h": 768,
+  "seed": 63,
+  "prompt": "perfect side view profile of a golden wooden romani vardo wagon with a rounded barrel roof of polished golden wood planks, ornate carved gold baroque trim on the roof edge, two arched windows with cream curtains, pink and purple flower garlands and flower boxes, a brass lantern hanging by the front door, four large wooden spoked wheels with golden rims, two wheels fully visible, warm golden wood tones, isolated on plain white background, photorealistic product photo, sharp",
+  "neg": "horse, people, perspective view, three quarter view, background scenery, grass, road, purple fabric roof, canopy, text, watermark, cartoon, blurry, cropped"
+ },
+ {
+  "nome": "vela-branca",
+  "w": 768,
+  "h": 1024,
+  "seed": 70,
+  "prompt": "a single tall white wax pillar candle, lit, with a soft warm flame and a little melted wax, on a small antique brass holder, centered, dark moody background, cinematic candlelight, photorealistic, highly detailed",
+  "neg": "people, person, hands, text, letters, watermark, logo, cartoon, anime, illustration, 3d render, lowres, blurry, deformed, multiple candles"
+ },
+ {
+  "nome": "vela-vermelha",
+  "w": 768,
+  "h": 1024,
+  "seed": 70,
+  "prompt": "a single tall deep red wax pillar candle, lit, with a soft warm flame and a little melted wax, on a small antique brass holder, centered, dark moody background, cinematic candlelight, photorealistic, highly detailed",
+  "neg": "people, person, hands, text, letters, watermark, logo, cartoon, anime, illustration, 3d render, lowres, blurry, deformed, multiple candles"
+ },
+ {
+  "nome": "vela-rosa",
+  "w": 768,
+  "h": 1024,
+  "seed": 70,
+  "prompt": "a single tall soft pink wax pillar candle, lit, with a soft warm flame and a little melted wax, on a small antique brass holder, centered, dark moody background, cinematic candlelight, photorealistic, highly detailed",
+  "neg": "people, person, hands, text, letters, watermark, logo, cartoon, anime, illustration, 3d render, lowres, blurry, deformed, multiple candles"
+ },
+ {
+  "nome": "vela-amarela",
+  "w": 768,
+  "h": 1024,
+  "seed": 70,
+  "prompt": "a single tall golden yellow wax pillar candle, lit, with a soft warm flame and a little melted wax, on a small antique brass holder, centered, dark moody background, cinematic candlelight, photorealistic, highly detailed",
+  "neg": "people, person, hands, text, letters, watermark, logo, cartoon, anime, illustration, 3d render, lowres, blurry, deformed, multiple candles"
+ },
+ {
+  "nome": "vela-laranja",
+  "w": 768,
+  "h": 1024,
+  "seed": 70,
+  "prompt": "a single tall orange wax pillar candle, lit, with a soft warm flame and a little melted wax, on a small antique brass holder, centered, dark moody background, cinematic candlelight, photorealistic, highly detailed",
+  "neg": "people, person, hands, text, letters, watermark, logo, cartoon, anime, illustration, 3d render, lowres, blurry, deformed, multiple candles"
+ },
+ {
+  "nome": "vela-verde",
+  "w": 768,
+  "h": 1024,
+  "seed": 70,
+  "prompt": "a single tall emerald green wax pillar candle, lit, with a soft warm flame and a little melted wax, on a small antique brass holder, centered, dark moody background, cinematic candlelight, photorealistic, highly detailed",
+  "neg": "people, person, hands, text, letters, watermark, logo, cartoon, anime, illustration, 3d render, lowres, blurry, deformed, multiple candles"
+ },
+ {
+  "nome": "vela-azul",
+  "w": 768,
+  "h": 1024,
+  "seed": 70,
+  "prompt": "a single tall royal blue wax pillar candle, lit, with a soft warm flame and a little melted wax, on a small antique brass holder, centered, dark moody background, cinematic candlelight, photorealistic, highly detailed",
+  "neg": "people, person, hands, text, letters, watermark, logo, cartoon, anime, illustration, 3d render, lowres, blurry, deformed, multiple candles"
+ },
+ {
+  "nome": "vela-lilas",
+  "w": 768,
+  "h": 1024,
+  "seed": 70,
+  "prompt": "a single tall lilac purple wax pillar candle, lit, with a soft warm flame and a little melted wax, on a small antique brass holder, centered, dark moody background, cinematic candlelight, photorealistic, highly detailed",
+  "neg": "people, person, hands, text, letters, watermark, logo, cartoon, anime, illustration, 3d render, lowres, blurry, deformed, multiple candles"
+ }
+]

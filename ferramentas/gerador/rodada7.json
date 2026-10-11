@@ -1,0 +1,58 @@
+[
+ {
+  "nome": "carroca-so-121",
+  "w": 1344,
+  "h": 768,
+  "seed": 121,
+  "prompt": "side view of an ornate golden carved romani vardo wagon with red roses on the curved roof, two long golden shafts sticking out at the front, big golden spoked wheels, isolated on white background, photorealistic",
+  "neg": "horse, animal, people, rider, three quarter view, scenery, grass, road, text, watermark, cartoon, blurry, cropped"
+ },
+ {
+  "nome": "carroca-so-122",
+  "w": 1344,
+  "h": 768,
+  "seed": 122,
+  "prompt": "side view of an ornate golden carved romani vardo wagon with red roses on the curved roof, two long golden shafts sticking out at the front, big golden spoked wheels, isolated on white background, photorealistic",
+  "neg": "horse, animal, people, rider, three quarter view, scenery, grass, road, text, watermark, cartoon, blurry, cropped"
+ },
+ {
+  "nome": "carroca-so-123",
+  "w": 1344,
+  "h": 768,
+  "seed": 123,
+  "prompt": "side view of an ornate golden carved romani vardo wagon with red roses on the curved roof, two long golden shafts sticking out at the front, big golden spoked wheels, isolated on white background, photorealistic",
+  "neg": "horse, animal, people, rider, three quarter view, scenery, grass, road, text, watermark, cartoon, blurry, cropped"
+ },
+ {
+  "nome": "cavalos-so-131",
+  "w": 1344,
+  "h": 768,
+  "seed": 131,
+  "prompt": "side view of two chestnut horses walking side by side facing right, golden harness collars, red flower headpieces, whole bodies and legs visible, isolated on white background, photorealistic",
+  "neg": "wagon, carriage, cart, people, rider, saddle, three quarter view, scenery, grass, text, watermark, cartoon, blurry, cropped, extra legs, deformed horse"
+ },
+ {
+  "nome": "cavalos-so-132",
+  "w": 1344,
+  "h": 768,
+  "seed": 132,
+  "prompt": "side view of two chestnut horses walking side by side facing right, golden harness collars, red flower headpieces, whole bodies and legs visible, isolated on white background, photorealistic",
+  "neg": "wagon, carriage, cart, people, rider, saddle, three quarter view, scenery, grass, text, watermark, cartoon, blurry, cropped, extra legs, deformed horse"
+ },
+ {
+  "nome": "cavalos-so-133",
+  "w": 1344,
+  "h": 768,
+  "seed": 133,
+  "prompt": "side view of two chestnut horses walking side by side facing right, golden harness collars, red flower headpieces, whole bodies and legs visible, isolated on white background, photorealistic",
+  "neg": "wagon, carriage, cart, people, rider, saddle, three quarter view, scenery, grass, text, watermark, cartoon, blurry, cropped, extra legs, deformed horse"
+ },
+ {
+  "nome": "cavalos-so-134",
+  "w": 1344,
+  "h": 768,
+  "seed": 134,
+  "prompt": "side view of two chestnut horses walking side by side facing right, golden harness collars, red flower headpieces, whole bodies and legs visible, isolated on white background, photorealistic",
+  "neg": "wagon, carriage, cart, people, rider, saddle, three quarter view, scenery, grass, text, watermark, cartoon, blurry, cropped, extra legs, deformed horse"
+ }
+]

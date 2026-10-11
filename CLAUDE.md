@@ -2,7 +2,8 @@ Projeto: site Tenda Cigana (da Thays Rosa, esposa do Rafa, cartomante cigana)
 
 Onde está
 * Pasta: C:\Users\Rafa\Projetos\tenda-cigana. Um index.html (HTML, CSS e JS num arquivo só) e a pasta assets/ com as imagens.
-* Repositório git só local por enquanto (sem GitHub). Criar o repositório e publicar só quando o Rafa pedir.
+* GitHub (público): https://github.com/rafeiguer/tenda-cigana, branch main. Site no ar pelo GitHub Pages: https://rafeiguer.github.io/tenda-cigana/ (publicado em 11/10/2026, a pedido do Rafa, antes da revisão dos textos pela Thays).
+* Fotos de teste (WhatsApp Image*) ficam fora do git: a da mão do Rafa está na pasta só para testar a leitura.
 * Para testar: python -m http.server 8082 dentro da pasta.
 
 Pedido original

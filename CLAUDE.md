@@ -74,9 +74,19 @@ Rodada 8 (11/10/2026)
 * Povos ciganos: na seção #povo, bandeira romani (SVG) e um cartão por povo (Calon, Kalderash, Matchuaia, Lovara, Horahané, Sinti). Cada um abre a sua página em tela cheia, com endereço próprio (#povos/<id>; o voltar do celular e o Esc fecham). Os textos ficam no objeto POVOS do index.html, escritos pelo Claude só com fatos bem conhecidos (origem, língua, ofícios, chegada ao Brasil), com nota de que cada família tem a sua história, seguindo o texto "Sobre". A Thays precisa revisar.
 * Leitor "Ouvir a página" em cada página de povo: voz do próprio aparelho (Web Speech API, pt-BR), sem serviço externo; lê frase por frase, destaca o parágrafo lido e rola até ele. Mesmo jeito do site da Vai de Rural.
 
+Rodada 9 (12/10/2026): layout novo, a tenda como num filme
+* Pedido: layout bem diferente do Bem Dito (a Tryv achou que as ideias dela foram copiadas). A primeira página é entrar numa tenda com a câmera na cabeça do cliente; as outras partes viram páginas.
+* Páginas: um arquivo só, com roteador por endereço (#/, #/baralho, #/bola, #/carroca, #/mao, #/xicara, #/roda, #/moedas, #/fitas, #/povos, #/povos/<id>, #/thays, #/sobre). Uma página por vez (main > section; a #tenda é a primeira). Links antigos (#baralho, #povo...) são convertidos. Os jogos são páginas (as abas levam de um ao outro). Cada página de dentro tem as cortinas presas como moldura nas bordas e "← Voltar à tenda" no topo.
+* A tenda (#tenda): de fora à noite (fora-152, faixas pretas de cinema, cartela com logo e "Entrar na tenda"); a cortina fechada da entrada (repintura fora-fechada-181, dividida no cordão dourado em x 684) abre girando para os lados; a câmera anda até a entrada com zoom exponencial e balanço de passo (~3,4 s) e o interior, já visto pela entrada, assume a tela. "Pular" corta. Na mesma visita, voltar à tenda cai direto dentro (sessionStorage tenda-dentro).
+* Dentro (dentro-162 repintado: xícaras numa bandeja e pedestal dourado; ferramentas/montar_dentro.py pôs a bola de assets/bola.webp no pedestal e 3 cartas deitadas): 11 objetos com brilho e plaquinha ligada por fio (PONTOS_TENDA no index.html) levam às páginas; ao tocar, a câmera se aproxima do objeto. No celular a cena arrasta para os lados; do lado de fora a tenda inteira cabe na largura (o resto é preto, como filme).
+* Imagens: gerador/montar_rodada9.py (fora e dentro), gerador/fechar_porta.py (entrada fechada, uma semente por processo), gerador/objetos_dentro.py (tentativa de repintar bola/cartas/xícara: só as xícaras vieram), ferramentas/montar_dentro.py, ferramentas/preparar_tenda.py (vaza a entrada na foto aberta e recorta as abas; medidas em gerador/porta_medidas.py) -> assets/tenda-fora.webp, tenda-aba-esq/dir.webp, tenda-dentro.webp.
+* O herói antigo (velas, logo e frase) saiu; o logo com faíscas agora está na cartela (#logo-heroi).
+
 Cuidados técnicos
 * GERAR IMAGEM NA PLACA: no DirectML o dispositivo 0 é o vídeo integrado do Ryzen (512 MB) e deu tela azul VIDEO_MEMORY_MANAGEMENT_INTERNAL três vezes. Sempre escolher a RX 7900 XTX pelo nome. Em meia precisão o DirectML devolve imagem cinza: usar fp32. O VAE fica no processador (na placa estourou a memória em 1344x768). No Real-ESRGAN (Vulkan) a ordem é outra: -g 0 é a RX 7900 XTX.
 * As imagens são geradas por ferramentas/preparar_imagens.py a partir da pasta "site thays".
 * Brilhos decorativos do interior não podem receber toque: regra .interior [fill="url(#i-brilho)"] { pointer-events: none; }.
 * Testes com Playwright usando o Chrome do computador (channel="chrome"), em 1440x900 e 390x844.
+* Inpainting (StableDiffusionXLInpaintPipeline) deixa o VAE na placa e estoura a memória na 2ª imagem do mesmo processo: rodar uma semente por processo.
+* O SDXL só lê os primeiros 77 tokens do pedido: manter os pedidos curtos.
 * Commit e push só quando o Rafa pedir.

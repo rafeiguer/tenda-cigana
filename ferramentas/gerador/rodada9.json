@@ -1,0 +1,82 @@
+[
+ {
+  "nome": "fora-151",
+  "w": 1344,
+  "h": 768,
+  "seed": 151,
+  "prompt": "eye level view of the closed entrance of a romani fortune teller tent at night, burgundy and gold striped canvas, two closed door flaps in the center, brass lanterns on both sides, warm candlelight glowing through the gap, starry sky, photorealistic, cinematic",
+  "neg": "people, person, woman, man, face, hands, text, letters, watermark, logo, cartoon, anime, illustration, 3d render, lowres, blurry, deformed, open door, interior"
+ },
+ {
+  "nome": "fora-152",
+  "w": 1344,
+  "h": 768,
+  "seed": 152,
+  "prompt": "eye level view of the closed entrance of a romani fortune teller tent at night, burgundy and gold striped canvas, two closed door flaps in the center, brass lanterns on both sides, warm candlelight glowing through the gap, starry sky, photorealistic, cinematic",
+  "neg": "people, person, woman, man, face, hands, text, letters, watermark, logo, cartoon, anime, illustration, 3d render, lowres, blurry, deformed, open door, interior"
+ },
+ {
+  "nome": "fora-153",
+  "w": 1344,
+  "h": 768,
+  "seed": 153,
+  "prompt": "eye level view of the closed entrance of a romani fortune teller tent at night, burgundy and gold striped canvas, two closed door flaps in the center, brass lanterns on both sides, warm candlelight glowing through the gap, starry sky, photorealistic, cinematic",
+  "neg": "people, person, woman, man, face, hands, text, letters, watermark, logo, cartoon, anime, illustration, 3d render, lowres, blurry, deformed, open door, interior"
+ },
+ {
+  "nome": "fora-154",
+  "w": 1344,
+  "h": 768,
+  "seed": 154,
+  "prompt": "eye level view of the closed entrance of a romani fortune teller tent at night, burgundy and gold striped canvas, two closed door flaps in the center, brass lanterns on both sides, warm candlelight glowing through the gap, starry sky, photorealistic, cinematic",
+  "neg": "people, person, woman, man, face, hands, text, letters, watermark, logo, cartoon, anime, illustration, 3d render, lowres, blurry, deformed, open door, interior"
+ },
+ {
+  "nome": "dentro-161",
+  "w": 1344,
+  "h": 768,
+  "seed": 161,
+  "prompt": "eye level view inside a cozy romani fortune teller tent, round table with burgundy velvet cloth, crystal ball, fortune cards, porcelain coffee cup, lit candles, hanging lanterns, purple and red silk draped walls, oriental rugs, photorealistic, cinematic",
+  "neg": "people, person, woman, man, face, hands, text, letters, watermark, logo, cartoon, anime, illustration, 3d render, lowres, blurry, deformed"
+ },
+ {
+  "nome": "dentro-162",
+  "w": 1344,
+  "h": 768,
+  "seed": 162,
+  "prompt": "eye level view inside a cozy romani fortune teller tent, round table with burgundy velvet cloth, crystal ball, fortune cards, porcelain coffee cup, lit candles, hanging lanterns, purple and red silk draped walls, oriental rugs, photorealistic, cinematic",
+  "neg": "people, person, woman, man, face, hands, text, letters, watermark, logo, cartoon, anime, illustration, 3d render, lowres, blurry, deformed"
+ },
+ {
+  "nome": "dentro-163",
+  "w": 1344,
+  "h": 768,
+  "seed": 163,
+  "prompt": "eye level view inside a cozy romani fortune teller tent, round table with burgundy velvet cloth, crystal ball, fortune cards, porcelain coffee cup, lit candles, hanging lanterns, purple and red silk draped walls, oriental rugs, photorealistic, cinematic",
+  "neg": "people, person, woman, man, face, hands, text, letters, watermark, logo, cartoon, anime, illustration, 3d render, lowres, blurry, deformed"
+ },
+ {
+  "nome": "dentro-parede-171",
+  "w": 1344,
+  "h": 768,
+  "seed": 171,
+  "prompt": "eye level view inside a romani fortune teller tent, round velvet table with crystal ball and cards, a big wooden wheel of fortune on the back wall, colorful ribbons, lanterns, candles, silk drapes, photorealistic, cinematic",
+  "neg": "people, person, woman, man, face, hands, text, letters, watermark, logo, cartoon, anime, illustration, 3d render, lowres, blurry, deformed"
+ },
+ {
+  "nome": "dentro-parede-172",
+  "w": 1344,
+  "h": 768,
+  "seed": 172,
+  "prompt": "eye level view inside a romani fortune teller tent, round velvet table with crystal ball and cards, a big wooden wheel of fortune on the back wall, colorful ribbons, lanterns, candles, silk drapes, photorealistic, cinematic",
+  "neg": "people, person, woman, man, face, hands, text, letters, watermark, logo, cartoon, anime, illustration, 3d render, lowres, blurry, deformed"
+ },
+ {
+  "nome": "dentro-parede-173",
+  "w": 1344,
+  "h": 768,
+  "seed": 173,
+  "prompt": "eye level view inside a romani fortune teller tent, round velvet table with crystal ball and cards, a big wooden wheel of fortune on the back wall, colorful ribbons, lanterns, candles, silk drapes, photorealistic, cinematic",
+  "neg": "people, person, woman, man, face, hands, text, letters, watermark, logo, cartoon, anime, illustration, 3d render, lowres, blurry, deformed"
+ }
+]

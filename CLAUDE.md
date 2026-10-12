@@ -8,7 +8,7 @@ Onde está
 
 Pedido original
 * Seguir o caminho do Bem Dito Tarot (C:\Users\Rafa\Desktop\bemdito-taro), mas nos tons e na luz das fotos da pasta "site thays" na área de trabalho (velas, vinho, dourado, roxo, rosa, carroças com flores e lanternas).
-* Baralho com prévia que leva ao WhatsApp da Thays: (17) 99124-1828 (wa.me/5517991241828).
+* Baralho com prévia que leva ao WhatsApp da Thays: (75) 99124-1828 (wa.me/5575991241828).
 * Logomarca linda e quente; carroça andando pelo site; carroça grande onde a pessoa entra (como a casinha do Bem Dito); card rosa da Thays com o contato; roda de carroça no painel.
 
 Decisões de design
